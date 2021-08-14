@@ -1,20 +1,18 @@
 
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introTitle: 'Hello em!',
+    introDesc: `Tôi có điều này muốn hỏi em nhưng nhớ là phải trả lời thật lòng đó nha
+    `,
+    btnIntro: 'ok luông',
+    title: 'Em có thích tôi không nào',
+    desc: 'Em vào không trả lời mà thoát ra tức là muốn làm vợ tôi đó nha =)))  ',
+    btnYes: 'Thích nhất vũ trụ <3',
+    btnNo: 'Anh mơ à =)))',
+    question:'Whyy',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    reply: 'Tại vì anh rất đẹp trai lại còn chơi thể thao giỏi <3 ',
+    mess: 'Tôi biết mà, yêu em nhiều',
+    messDesc: 'Tối nay 7h tôi qua đón em đi chơi nhé, còn ngại gì mà không nhắn ngay cho tôi đi nào',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/khanh.nam.150223' //
 }
