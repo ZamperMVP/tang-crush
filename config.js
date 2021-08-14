@@ -8,7 +8,7 @@ const CONFIG = {
     desc: 'Em vào không trả lời mà thoát ra tức là muốn làm vợ tôi đó nha =)))  ',
     btnYes: 'Thích nhất vũ trụ <3',
     btnNo: 'Anh mơ à =)))',
-    question:'Tại sao em lại thích anh z',
+    question:'Tại sao em lại thích tôi z',
     btnReply: 'Gửi anh nè <3',
     reply: 'Tại vì anh rất đẹp trai lại còn chơi thể thao giỏi <3 ',
     mess: 'Tôi biết mà, yêu em nhiều',
